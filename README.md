@@ -1,6 +1,6 @@
 # 120 Data Science Interview Questions
 
-Here are the answers to [120 Data Science Interview Questions](http://www.datasciencequestions.com/).
+Here are my answers to [120 Data Science Interview Questions](http://www.datasciencequestions.com/).
 
 - [Communication](communication.md)
 - [Data Analysis](data-analysis.md)
@@ -9,3 +9,6 @@ Here are the answers to [120 Data Science Interview Questions](http://www.datasc
 - [Product Metrics](product-metrics.md)
 - [Programming](programming.md)
 - [Statistical Inference](statistical-inference.md)
+
+
+Reference: https://github.com/shrestabs/120-Data-Science-Interview-Questions
