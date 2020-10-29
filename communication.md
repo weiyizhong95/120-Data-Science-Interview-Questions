@@ -11,7 +11,9 @@
    - How to solve: 1. feed more data. 2. use L1 or L2 to make regularization. 3. drop out unimportant features. 4. do cross-validation 5. reduce dememsion
 #### 2. Introduce me to something you’re passionate about.
 #### 3. How would you explain an A/B test to an engineer with no statistics background? A linear regression?
-  - A/B testing, or more broadly, multivariate testing, is the testing of different elements of a user's experience to determine which variation helps the business achieve its goal more effectively (i.e. increasing conversions, etc..)  This can be copy on a web site, button colors, different user interfaces, different email subject lines, calls to action, offers, etc. 
+  - A/B testing is a process to show two versions(only one place would be changed) of the same web page to differnt segmemts of users at the same time,
+  and then we measure and compare the result according to our metrics.
+  - Linear regression model explain the relationship between quantitative independent variables and one quantitative dependent variable. 
 #### 4. How would you explain a con dence interval to an engi\- neer with no statistics background? What does 95% con- dence mean?
   - [link](https://www.quora.com/What-is-a-confidence-interval-in-laymans-terms)
 #### 5. How would you explain to a group of senior executives why data is important?
