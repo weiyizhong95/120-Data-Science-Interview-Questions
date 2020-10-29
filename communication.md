@@ -21,6 +21,14 @@
     sample mean) and a lower bound(the lowest sample mean). There is a high chance that this interval will cover the mean of all studetns' heights.
    
   - Since we could not let this interval grow unlimitedly, therefore, we put the confidence level. Usually we take 95%, which means that  
-    95% of the interval will cover the mean of all studetns' height. One more example is, we repeatedly draw a sample 10000 times, there will be 10000 different interval, then there are approximately 9500 intervals
+    95% of the interval will cover the mean of all studetns' height. One more example is, we repeatedly draw a sample 10000 times, there will be 
+    10000 different interval, then there are approximately 9500 intervals
     will cover the true value(chance of 100%), and the other 500 intervals will not(chance of 0%).
 #### 5. How would you explain to a group of senior executives why data is important?
+  -  First, data tells truth. Some people will tell a lie, others won't. When a person says that he goes to the gym 5 times a week, but the record 
+     shows that he just does that 2 times a week for three months. Now, who to believe?
+  -  Second, data records the past and helps to improve. How has the sales/revenue changed over the past few years? 
+     Which marketing channel does the best for us? It's a resource for us predict the future. 
+  -  Thrid, data helps us understand the performance in time or even at a real time, so that we could quickly response to the shifting market.
+  -  Last but not least, it helps us understand our customers better. Where and how to find new customers? What do customers like most now, by segments? 
+    
