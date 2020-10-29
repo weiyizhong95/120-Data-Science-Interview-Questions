@@ -5,9 +5,7 @@
    - Overfitting often occurs when we are building  a model. When we train a model that fits very well on the traning data, but it does bad job on test data,
    there is a high possibility that the model is overfitting. Because the model learns all details and noises in the training data, but not every dataset comes 
    the same, and it will not fit the new data.
-        
-   - Overfitting comes usually with nonparametric and nonlinear models, such as random forest, decision trees.
-        
+   - Overfitting comes usually with nonparametric and nonlinear models, such as random forest, decision trees. 
    - How to solve: 1. feed more data. 2. use L1 or L2 to make regularization. 3. drop out unimportant features. 4. do cross-validation 5. reduce dememsion
 #### 2. Introduce me to something you’re passionate about.
 #### 3. How would you explain an A/B test to an engineer with no statistics background? A linear regression?
@@ -19,7 +17,6 @@
     students at six grade from a school to estimate their heights, we will try to observe a sample of 100 students and calculate the sample mean, 
     then repeat this process. Each sample mean will differ from each other, so that we get an interval, which contains the upper bound(the highest
     sample mean) and a lower bound(the lowest sample mean). There is a high chance that this interval will cover the mean of all studetns' heights.
-   
   - Since we could not let this interval grow unlimitedly, therefore, we put the confidence level. Usually we take 95%, which means that  
     95% of the interval will cover the mean of all studetns' height. One more example is, we repeatedly draw a sample 10000 times, there will be 
     10000 different interval, then there are approximately 9500 intervals
