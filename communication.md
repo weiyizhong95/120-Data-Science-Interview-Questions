@@ -14,6 +14,13 @@
   - A/B testing is a process to show two versions(only one place would be changed) of the same web page to differnt segmemts of users at the same time,
   and then we measure and compare the result according to our metrics.
   - Linear regression model explain the relationship between quantitative independent variables and one quantitative dependent variable. 
-#### 4. How would you explain a con dence interval to an engi\- neer with no statistics background? What does 95% con- dence mean?
-  - [link](https://www.quora.com/What-is-a-confidence-interval-in-laymans-terms)
+#### 4. How would you explain a confidence interval to an engineer with no statistics background? What does 95% confidence mean?
+  - The confidence interval is a range that we believe it will cover the true number at a certain level. Supposed we select 300 
+    students at six grade from a school to estimate their heights, we will try to observe a sample of 100 students and calculate the sample mean, 
+    then repeat this process. Each sample mean will differ from each other, so that we get an interval, which contains the upper bound(the highest
+    sample mean) and a lower bound(the lowest sample mean). There is a high chance that this interval will cover the mean of all studetns' heights.
+   
+  - Since we could not let this interval grow unlimitedly, therefore, we put the confidence level. Usually we take 95%, which means that  
+    95% of the interval will cover the mean of all studetns' height. One more example is, we repeatedly draw a sample 10000 times, there will be 10000 different interval, then there are approximately 9500 intervals
+    will cover the true value(chance of 100%), and the other 500 intervals will not(chance of 0%).
 #### 5. How would you explain to a group of senior executives why data is important?
