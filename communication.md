@@ -2,6 +2,13 @@
 
 
 #### 1. Explain to me a technical concept related to the role that you’re interviewing for.
+   - Overfitting often occurs when we are building  a model. When we train a model that fits very well on the traning data, but it does bad job on test data,
+   there is a high possibility that the model is overfitting. Because the model learns all details and noises in the training data, but not every dataset comes 
+   the same, and it will not fit the new data.
+        
+   - Overfitting comes usually with nonparametric and nonlinear models, such as random forest, decision trees.
+        
+   - How to solve: 1. feed more data. 2. use L1 or L2 to make regularization. 3. drop out unimportant features. 4. do cross-validation 5. reduce dememsion
 #### 2. Introduce me to something you’re passionate about.
 #### 3. How would you explain an A/B test to an engineer with no statistics background? A linear regression?
   - A/B testing, or more broadly, multivariate testing, is the testing of different elements of a user's experience to determine which variation helps the business achieve its goal more effectively (i.e. increasing conversions, etc..)  This can be copy on a web site, button colors, different user interfaces, different email subject lines, calls to action, offers, etc. 
