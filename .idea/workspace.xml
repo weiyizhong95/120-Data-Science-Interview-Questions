@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3f266924-0b4c-42a0-8dc4-e5cc30631b69" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/communication.md" beforeDir="false" afterPath="$PROJECT_DIR$/communication.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/data-analysis.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1600399605487</updated>
       <workItem from="1600399606549" duration="1469000" />
-      <workItem from="1603990540714" duration="3630000" />
+      <workItem from="1603990540714" duration="3697000" />
+      <workItem from="1604246527248" duration="3081000" />
     </task>
     <task id="LOCAL-00001" summary="Update question3 in communication.md">
       <created>1603991013246</created>
@@ -74,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603993566814</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update question3 in communication.md">
+      <created>1603994298679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603994298679</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update question3 in communication.md">
+      <created>1603994353052</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603994353052</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,16 +100,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update question3 in communication.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="85" y="23" width="1133" height="836" key="CommitChangelistDialog2" timestamp="1603993566685">
+    <state x="85" y="23" width="1133" height="836" key="CommitChangelistDialog2" timestamp="1603994352936">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
     <state x="-1598" y="-221" key="CommitChangelistDialog2/0.23.1440.825/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1600400713982" />
-    <state x="85" y="23" width="1133" height="836" key="CommitChangelistDialog2/0.23.1440.836/-2560.-483.2560.1417@0.23.1440.836" timestamp="1603993566685" />
-    <state x="425" y="270" key="Vcs.Push.Dialog.v2" timestamp="1603993570308">
+    <state x="85" y="23" width="1133" height="836" key="CommitChangelistDialog2/0.23.1440.836/-2560.-483.2560.1417@0.23.1440.836" timestamp="1603994352936" />
+    <state x="425" y="270" key="Vcs.Push.Dialog.v2" timestamp="1603994355073">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
     <state x="-1458" y="11" key="Vcs.Push.Dialog.v2/0.23.1440.825/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1600400806654" />
-    <state x="425" y="270" key="Vcs.Push.Dialog.v2/0.23.1440.836/-2560.-483.2560.1417@0.23.1440.836" timestamp="1603993570308" />
+    <state x="425" y="270" key="Vcs.Push.Dialog.v2/0.23.1440.836/-2560.-483.2560.1417@0.23.1440.836" timestamp="1603994355073" />
     <state x="-1260" y="125" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600400681144">
       <screen x="-2560" y="-483" width="2560" height="1417" />
     </state>

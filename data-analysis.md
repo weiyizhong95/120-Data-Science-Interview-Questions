@@ -1,8 +1,22 @@
 ## Data Analysis (27 questions)
 
 #### 1. (Given a Dataset) Analyze this dataset and tell me what you can learn from it.
-#### 2. What is R2? What are some other metrics that could be better than R2 and why?
 
+#### 2. What is R2? What are some other metrics that could be better than R2 and why?
+   - R2 is a statistical measure of how close the data are to the fitted regression line.  
+   -             R2 = Explained variation / Total variation
+   -  It indicates the percentage of the variance in the dependent variable that the independent variables 
+     explain collectively. Therefore, the number should range from 0% to 100%. In general, the higher the 
+     R-squared, the better the model fits the data.
+   - Limitations: R2 will increase every time you add a predictor to a model, even if it may only due to 
+     the increasing number of predictors. Therefore, it never decreases. Also, there will be random noise in the model when there are too
+     many predictors, high R2 could be misleading.
+   - Other metrics:
+        - Adjusted R2: The adjusted R2 tells the percentage of variation explained by only the useful predicators.
+        - RMSE: sqrt(MSE) = sqrt(mean((observed - predicted)^2). It measures the average difference between the observed
+                outcome values and the values predicted by the model. The lower, the better.
+        - MAE: MAE = mean(abs(obervered - predicted)). It measures the prediction error. The lower, the better.
+                
 #### 3. What is the curse of dimensionality?
 
 #### 4. Is more data always better?
