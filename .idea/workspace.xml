@@ -59,7 +59,7 @@
       <updated>1600399605487</updated>
       <workItem from="1600399606549" duration="1469000" />
       <workItem from="1603990540714" duration="3697000" />
-      <workItem from="1604246527248" duration="3081000" />
+      <workItem from="1604246527248" duration="7163000" />
     </task>
     <task id="LOCAL-00001" summary="Update question3 in communication.md">
       <created>1603991013246</created>
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603994353052</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update question3 in data analysis.md">
+      <created>1604273683555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604273683555</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,13 +104,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update question3 in communication.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update question3 in communication.md" />
+    <MESSAGE value="Update question3 in data analysis.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update question3 in data analysis.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="85" y="23" width="1133" height="836" key="CommitChangelistDialog2" timestamp="1603994352936">
-      <screen x="0" y="23" width="1440" height="836" />
+    <state x="-2409" y="-483" width="1133" height="836" key="CommitChangelistDialog2" timestamp="1604273683356">
+      <screen x="-2560" y="-483" width="2560" height="1417" />
     </state>
     <state x="-1598" y="-221" key="CommitChangelistDialog2/0.23.1440.825/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1600400713982" />
+    <state x="-2409" y="-483" key="CommitChangelistDialog2/0.23.1440.832/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1604273683356" />
     <state x="85" y="23" width="1133" height="836" key="CommitChangelistDialog2/0.23.1440.836/-2560.-483.2560.1417@0.23.1440.836" timestamp="1603994352936" />
     <state x="425" y="270" key="Vcs.Push.Dialog.v2" timestamp="1603994355073">
       <screen x="0" y="23" width="1440" height="836" />

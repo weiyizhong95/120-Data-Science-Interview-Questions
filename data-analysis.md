@@ -18,22 +18,33 @@
         - MAE: MAE = mean(abs(obervered - predicted)). It measures the prediction error. The lower, the better.
                 
 #### 3. What is the curse of dimensionality?
+   - When there are more features than observations, we might easily fall into the overfitting issue. And observations
+     become harder to cluser. Too many dimensions causes every observation in dataset to be equidistant from the others.
+     Since clustering techniques depend on "distance" to quantify the similarity between observations, when all the distances
+     are euqal, then all the observations appear alike, therefore, no meaningful clusters can be formed. 
+     (Tony Yiu, https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e)
 
 #### 4. Is more data always better?
-
+   - No. When there are more repeated data, or more biased data points.
 #### 5. What are advantages of plotting your data before per- forming analysis?
-
+   - We could understand the overall distribution, missingness  of data, finding out outliers, then generate 
+     reasonable hypotheses.
 
 #### 6. How can you make sure that you don’t analyze something that ends up meaningless?
+    
 
+#### 7. What is the role of trial and error in data analysis? What is the role of making a hypothesis before diving in?
+    
 
-#### 7. What is the role of trial and error in data analysis? What is the the role of making a hypothesis before diving in?
-
-#### 8. How can you determine which features are the most im- portant in your model?
-
-
+#### 8. How can you determine which features are the most important in your model?
+   - Apply principle component analysis
+   - Check feature importance by applying random forest
+   - Check the absolute value of the Pearson’s correlation between the target and numerical 
+     features in our dataset. We keep the top n features
+   - Apply Lasso to choose important features
+   
 #### 9. How do you deal with some of your predictors being missing?
-
+   - 
 
 #### 10. You have several variables that are positively correlated with your response, and you think combining all of the variables could give you a good prediction of your response. However, you see that in the multiple linear regression, one of the weights on the predictors is negative. What could be the issue?
 
