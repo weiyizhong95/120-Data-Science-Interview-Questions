@@ -4,7 +4,7 @@
 
 #### 2. What is R2? What are some other metrics that could be better than R2 and why?
    - R2 is a statistical measure of how close the data are to the fitted regression line.  
-   -             R2 = Explained variation / Total variation
+   -              R2 = Explained variation / Total variation
    -  It indicates the percentage of the variance in the dependent variable that the independent variables 
      explain collectively. Therefore, the number should range from 0% to 100%. In general, the higher the 
      R-squared, the better the model fits the data.
@@ -34,7 +34,11 @@
     
 
 #### 7. What is the role of trial and error in data analysis? What is the role of making a hypothesis before diving in?
-    
+   - Trail and error are parts of making decision. We make predictions based on prior information and update them according to the 
+     new evidence we see. Therefore, trial and error are to make predictions more accurate.
+     Reference: https://www.quora.com/What-is-the-role-of-trial-and-error-in-data-analysis
+   - The role of making a hypothesis is to predict the results of the future experiment. Then we are going to see whether 
+     the performance of the experiment supports our assumptions. It serves as a guide.
 
 #### 8. How can you determine which features are the most important in your model?
    - Apply principle component analysis
@@ -44,13 +48,27 @@
    - Apply Lasso to choose important features
    
 #### 9. How do you deal with some of your predictors being missing?
-   - 
+   - Here I assume that "missing predictors" means "missing value of predictors"
+   - First, I check at the missing value pattern. 
+     - If it's missing at completely random, which means that missing values are randomly distributing
+       across all observations. For this situation we could check to compare two pars of data - One with missing 
+       observations and the other without missing observations - through a t-test. If we do not find any difference
+       in means between two samples, we could assume that they are missing at completely random. 
+       - in such cases, we could delete them if the amount is small. Or we could replace them using mean or median
+         of the non-missing values. But if the amount is large, it may result in loss of variation and it's better 
+         to use imputations from the Python package sklearn impute like IterativeImputer, KNNImputer.
+     - If it's not missing at random, which means it the missing data has a structure, then we have to treat them 
+       carefully. We could use Listwise Deleteion, Pairwise deletion, Mean/Mode substituion, Regression Imputation
+       and so on.
+       
+      Reference: https://blogs.oracle.com/datascience/3-methods-to-handle-missing-data
+                 https://liberalarts.utexas.edu/prc/_files/cs/Missing-Data.pdf
 
 #### 10. You have several variables that are positively correlated with your response, and you think combining all of the variables could give you a good prediction of your response. However, you see that in the multiple linear regression, one of the weights on the predictors is negative. What could be the issue?
-
+   -  It may due to the multicollineary.
 
 #### 11. Let’s say you’re given an unfeasible amount of predictors in a predictive modeling task. What are some ways to make the prediction more feasible?
- 
+   - 
  
 #### 12. Now you have a feasible amount of predictors, but you’re fairly sure that you don’t need all of them. How would you perform feature selection on the dataset?
 
