@@ -139,7 +139,20 @@
    - Bag of words analysis in NLP, where documnets are represented by one or multiple vectors and we could calculate the occurence of each word of each word and compare in two texs.
 
 #### 26. You have data on all purchases of customers at a grocery store. Describe to me how you would program an algo- rithm that would cluster the customers into groups. How would you determine the appropriate number of clusters to include?
-
-
+   - Use clustering methods like K-means, where customers are classified as belong to one of K-groups.
+   - First, we specify number of clusters k.
+   - Initialize centroids by first shuffling the dataset, then calculate the distance between k centroids and each data point
+     and group data points which have smallest distance to one of the centroids.
+   - In each cluster, we reselect a new centroid.
+   - Keep iterating until there is no change to the centroids (the assigned data points remain the same )
+   - Use Elbow Method to find the optimal k. Calculate the Within Cluster Sum of Squared Errors(WSS) for different values of k, and choose the k for which WSS first starts to diminish.
+   
+   
 #### 27. Let’s say you’re building the recommended music engine at Spotify to recommend people music based on past listening history. How would you approach this problem?
-
+   - Content-based filtering, which recommend similar item as the ones in the past history.
+   - After cleaning(lowercase, avoid duplication etc.), in the modeling phase, we use CountVectorizer and cosine similarity to detect similarities between music. 
+   
+   
+   
+   
+   
