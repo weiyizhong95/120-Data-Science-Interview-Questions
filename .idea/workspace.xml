@@ -60,7 +60,7 @@
       <workItem from="1600399606549" duration="1469000" />
       <workItem from="1603990540714" duration="3697000" />
       <workItem from="1604246527248" duration="9313000" />
-      <workItem from="1604685723092" duration="3476000" />
+      <workItem from="1604685723092" duration="8499000" />
     </task>
     <task id="LOCAL-00001" summary="Update question3 in communication.md">
       <created>1603991013246</created>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604287458756</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update question3 in data analysis.md">
+      <created>1604705723324</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604705723324</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,9 +123,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update question3 in data analysis.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-2409" y="-483" width="1133" height="836" key="CommitChangelistDialog2" timestamp="1604287458636">
-      <screen x="-2560" y="-483" width="2560" height="1417" />
+    <state x="82" y="23" width="846" height="518" key="CommitChangelistDialog2" timestamp="1604705723065">
+      <screen x="0" y="23" width="1392" height="877" />
     </state>
+    <state x="82" y="23" width="846" height="518" key="CommitChangelistDialog2/0.23.1392.877@0.23.1392.877" timestamp="1604705723065" />
     <state x="-1598" y="-221" key="CommitChangelistDialog2/0.23.1440.825/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1600400713982" />
     <state x="-2409" y="-483" key="CommitChangelistDialog2/0.23.1440.830/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1604287458636" />
     <state x="-2409" y="-483" key="CommitChangelistDialog2/0.23.1440.832/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1604273683356" />
@@ -137,5 +145,9 @@
       <screen x="-2560" y="-483" width="2560" height="1417" />
     </state>
     <state x="-1098" y="90" key="run.anything.popup/0.23.1440.825/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1600399657950" />
+    <state x="932" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1604711469355">
+      <screen x="0" y="23" width="1392" height="877" />
+    </state>
+    <state x="932" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1392.877@0.23.1392.877" timestamp="1604711469355" />
   </component>
 </project>
