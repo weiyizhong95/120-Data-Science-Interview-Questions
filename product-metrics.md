@@ -16,7 +16,8 @@
     Daily user growth, Cost per acquisition
   
 #### 5. What would be good metrics of success for a product that o ered in-app purchases? (Zynga, Angry Birds, other gaming apps)
-
+  - Average Revenue Per Paid User
+  - Average Revenue Per User
 
 #### 6. A certain metric is violating your expectations by going down or up more than you expect. How would you try to identify the cause of the change?
    - Learn any changes in the internal side or external side to find out reasons
