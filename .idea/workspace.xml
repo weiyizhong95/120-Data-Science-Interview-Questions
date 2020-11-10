@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3f266924-0b4c-42a0-8dc4-e5cc30631b69" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/data-analysis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-metrics.md" beforeDir="false" afterPath="$PROJECT_DIR$/product-metrics.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,8 @@
       <workItem from="1600399606549" duration="1469000" />
       <workItem from="1603990540714" duration="3697000" />
       <workItem from="1604246527248" duration="9313000" />
-      <workItem from="1604685723092" duration="10513000" />
+      <workItem from="1604685723092" duration="11281000" />
+      <workItem from="1605029630813" duration="6840000" />
     </task>
     <task id="LOCAL-00001" summary="Update question3 in communication.md">
       <created>1603991013246</created>
@@ -118,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604716362902</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update most of questions in data analysis.md">
+      <created>1604718255127</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604718255127</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,17 +139,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update most of questions in data analysis.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="82" y="23" width="846" height="518" key="CommitChangelistDialog2" timestamp="1604716362667">
+    <state x="82" y="23" width="846" height="518" key="CommitChangelistDialog2" timestamp="1604718255029">
       <screen x="0" y="23" width="1392" height="877" />
     </state>
-    <state x="82" y="23" width="846" height="518" key="CommitChangelistDialog2/0.23.1392.877@0.23.1392.877" timestamp="1604716362667" />
+    <state x="82" y="23" width="846" height="518" key="CommitChangelistDialog2/0.23.1392.877@0.23.1392.877" timestamp="1604718255029" />
     <state x="-1598" y="-221" key="CommitChangelistDialog2/0.23.1440.825/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1600400713982" />
     <state x="-2409" y="-483" key="CommitChangelistDialog2/0.23.1440.830/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1604287458636" />
     <state x="-2409" y="-483" key="CommitChangelistDialog2/0.23.1440.832/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1604273683356" />
     <state x="85" y="23" width="1133" height="836" key="CommitChangelistDialog2/0.23.1440.836/-2560.-483.2560.1417@0.23.1440.836" timestamp="1603994352936" />
-    <state x="-1804" y="-78" key="Vcs.Push.Dialog.v2" timestamp="1604344592195">
-      <screen x="-2560" y="-483" width="2560" height="1370" />
+    <state x="411" y="282" key="Vcs.Push.Dialog.v2" timestamp="1604718271111">
+      <screen x="0" y="23" width="1392" height="877" />
     </state>
+    <state x="411" y="282" key="Vcs.Push.Dialog.v2/0.23.1392.877@0.23.1392.877" timestamp="1604718271111" />
     <state x="-1458" y="11" key="Vcs.Push.Dialog.v2/0.23.1440.825/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1600400806654" />
     <state x="425" y="270" key="Vcs.Push.Dialog.v2/0.23.1440.836/-2560.-483.2560.1417@0.23.1440.836" timestamp="1603994355073" />
     <state x="-1804" y="-78" key="Vcs.Push.Dialog.v2/0.23.1440.877/-2560.-483.2560.1370@-2560.-483.2560.1370" timestamp="1604344592195" />
