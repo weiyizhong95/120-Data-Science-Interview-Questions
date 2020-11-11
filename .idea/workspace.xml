@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f266924-0b4c-42a0-8dc4-e5cc30631b69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictive-modeling.md" beforeDir="false" afterPath="$PROJECT_DIR$/predictive-modeling.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product-metrics.md" beforeDir="false" afterPath="$PROJECT_DIR$/product-metrics.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +62,8 @@
       <workItem from="1603990540714" duration="3697000" />
       <workItem from="1604246527248" duration="9313000" />
       <workItem from="1604685723092" duration="11281000" />
-      <workItem from="1605029630813" duration="7151000" />
+      <workItem from="1605029630813" duration="7414000" />
+      <workItem from="1605111392415" duration="10013000" />
     </task>
     <task id="LOCAL-00001" summary="Update question3 in communication.md">
       <created>1603991013246</created>
@@ -132,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605039147076</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update most of questions in data analysis.md">
+      <created>1605039184873</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605039184873</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update most of questions in product-metrics.md">
+      <created>1605039290006</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605039290006</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,20 +159,23 @@
     <MESSAGE value="Update question3 in communication.md" />
     <MESSAGE value="Update question3 in data analysis.md" />
     <MESSAGE value="Update most of questions in data analysis.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update most of questions in data analysis.md" />
+    <MESSAGE value="Update most of questions in product-metrics.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update most of questions in product-metrics.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="82" y="23" width="846" height="518" key="CommitChangelistDialog2" timestamp="1604718255029">
+    <state x="82" y="23" width="846" height="518" key="CommitChangelistDialog2" timestamp="1605039289904">
       <screen x="0" y="23" width="1392" height="877" />
     </state>
+    <state x="82" y="23" key="CommitChangelistDialog2/0.23.1392.877/-2560.-483.2560.1417@0.23.1392.877" timestamp="1605039289904" />
     <state x="82" y="23" width="846" height="518" key="CommitChangelistDialog2/0.23.1392.877@0.23.1392.877" timestamp="1604718255029" />
     <state x="-1598" y="-221" key="CommitChangelistDialog2/0.23.1440.825/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1600400713982" />
     <state x="-2409" y="-483" key="CommitChangelistDialog2/0.23.1440.830/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1604287458636" />
     <state x="-2409" y="-483" key="CommitChangelistDialog2/0.23.1440.832/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1604273683356" />
     <state x="85" y="23" width="1133" height="836" key="CommitChangelistDialog2/0.23.1440.836/-2560.-483.2560.1417@0.23.1440.836" timestamp="1603994352936" />
-    <state x="411" y="282" key="Vcs.Push.Dialog.v2" timestamp="1604718271111">
+    <state x="411" y="282" key="Vcs.Push.Dialog.v2" timestamp="1605039301050">
       <screen x="0" y="23" width="1392" height="877" />
     </state>
+    <state x="411" y="282" key="Vcs.Push.Dialog.v2/0.23.1392.877/-2560.-483.2560.1417@0.23.1392.877" timestamp="1605039301050" />
     <state x="411" y="282" key="Vcs.Push.Dialog.v2/0.23.1392.877@0.23.1392.877" timestamp="1604718271111" />
     <state x="-1458" y="11" key="Vcs.Push.Dialog.v2/0.23.1440.825/-2560.-483.2560.1417@-2560.-483.2560.1417" timestamp="1600400806654" />
     <state x="425" y="270" key="Vcs.Push.Dialog.v2/0.23.1440.836/-2560.-483.2560.1417@0.23.1440.836" timestamp="1603994355073" />

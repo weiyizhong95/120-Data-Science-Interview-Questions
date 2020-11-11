@@ -30,7 +30,7 @@
    - Learn any changes in the internal side or external side to find out reasons
    - Define whether the change is significant or not
    - Check whether there were similar patterns in history
-   - Break down the cause by running funnel analysis, segement analysis
+   - Break down the cause by running funnel analysis, segment analysis
 
 #### 8. You’re a restaurant and are approached by Groupon to run a deal. What data would you ask from them in order to determine whether or not to do the deal?
    - Metrics of Groupon to look at: Daily/Monthly active user, page view, unique visitor, customer lifetime value, Net Promoter Score, Cost per acquisition, retention rate
